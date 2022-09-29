@@ -20,8 +20,10 @@
     "@emotion/styled": "^11.10.4",
     "gatsby": "^4.24.0",
     "gatsby-plugin-emotion": "^7.24.0",
+    "gatsby-plugin-sumo": "^1.0.3",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "react-helmet": "^6.1.0"
   },
   "devDependencies": {
     "@types/node": "^17.0.45",
